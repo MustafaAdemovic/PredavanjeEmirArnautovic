@@ -34,7 +34,9 @@ public class DrugaKlasaTestStringBilder {
 			}
 		}
 		System.out.println("String concat: " + concatString);
+		System.out.println();
 
 	}
+	
 
 }
